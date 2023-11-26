@@ -1,0 +1,16 @@
+Online
+BioStat
+GFRS
+
+
+1. LightGBM
+2. Gradient Boost
+3. Random Foreset Classifier
+4. Voting Classifier
+
+XGBoost
+Catboost
+
+
+1CNN
+TabNet%
